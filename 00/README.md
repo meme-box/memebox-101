@@ -1,3 +1,7 @@
+| Title                                | Description                              | Tags                    | 
+|--------------------------------------|------------------------------------------|-------------------------|
+| MemeBox 101 - Introduction and setup | A guide on how to set up and use MemeBox | memebox, obs, streaming |
+
 Welcome to this MemeBox 101 series where we will go over on how to download,
 install, configure and use [MemeBox](MEMEBOX_GITHUB_URL).
 
