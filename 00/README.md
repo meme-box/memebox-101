@@ -1,4 +1,4 @@
-Welcome to this mini MemeBox 101 series where we will go over on how to download,
+Welcome to this MemeBox 101 series where we will go over on how to download,
 install, configure and use [MemeBox](MEMEBOX_GITHUB_URL).
 
 # What is MemeBox?
