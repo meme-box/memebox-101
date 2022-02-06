@@ -1,5 +1,5 @@
-| Title                                | Description                              | Tags                    | 
-|--------------------------------------|------------------------------------------|-------------------------|
+| Title                                | Description                              | Tags                    |
+| ------------------------------------ | ---------------------------------------- | ----------------------- |
 | MemeBox 101 - Introduction and setup | A guide on how to set up and use MemeBox | memebox, obs, streaming |
 
 Welcome to this MemeBox 101 series where we will go over on how to download,
@@ -8,9 +8,9 @@ install, configure and use [MemeBox](MEMEBOX_GITHUB_URL).
 # What is MemeBox?
 
 <p align="center">
-	<img 
-		src="https://raw.githubusercontent.com/negue/meme-box/develop/assets/memebox-optimized.svg" 
-		width="250" alt="MemeBox logo" title="MemeBox logo"/>
+    <img 
+        src="https://raw.githubusercontent.com/negue/meme-box/develop/assets/memebox-optimized.svg" 
+        width="250" alt="MemeBox logo" title="MemeBox logo"/>
 </p>
 
 A complete management app for
@@ -59,26 +59,26 @@ On the release page you will be presented with the option to download multiple
 versions of the MemeBox software.
 
 * `com.memebox.memebox-streamdeck.streamDeckPlugin`
-	* This is plugin that adds MemeBox controls to the [Streamdeck](https://www.elgato.com/en/stream-deck)
+  * This is plugin that adds MemeBox controls to the [Streamdeck](https://www.elgato.com/en/stream-deck)
 * `memebox-electron.AppImage`
-	* This is a file running a desktop version of MemeBox on Linux
+  * This is a file running a desktop version of MemeBox on Linux
 * `memebox-headless.exe`
-	* This is a file running a headless version of MemeBox on Windows
+  * This is a file running a headless version of MemeBox on Windows
 * `memebox-linux-headless`
-	* This is a file running a headless version of MemeBox on Linux
+  * This is a file running a headless version of MemeBox on Linux
 * `memebox-mac-electron.dmg`
-	* This is a file running a desktop version of MemeBox on Max
+  * This is a file running a desktop version of MemeBox on Max
 * `memebox-macos-headless`
-	* This is a file running a headless version of MemeBox on Mac
+  * This is a file running a headless version of MemeBox on Mac
 * `memebox-windows-electron.exe`
-	* This is a file running a desktop version of MemeBox on Windows (installer)
+  * This is a file running a desktop version of MemeBox on Windows (installer)
 * `memebox-windows-electron.zip`
-	* This is a file running a desktop version of MemeBox on Windows (manual installation)
+  * This is a file running a desktop version of MemeBox on Windows (manual installation)
 
 <p align="center">
    <img
       src="./release-page-download-options.png" 
-	  alt="Different download options on the release page" 
+      alt="Different download options on the release page" 
       title="Different download options on the release page"/>
 </p>
 
@@ -129,7 +129,6 @@ On the subsequent runs you will not be seeing this prompt unless you download a
 new version of the software.
 
 ![](./windows-security-screen-run-anyway.png)
-
 
 # Configuring MemeBox
 
