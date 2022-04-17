@@ -34,18 +34,14 @@ using the nightly build trough this guide.
 
 There are a few places where you can get it.
 
-Download the [latest release!](MEMEBOX_GITHUB_RELEASE_URL) (currently a bit ouf
-of date, new release soon) - the
-latest [nightly builds](MEMEBOX_GITHUB_NIGHTLY_RELEASE_URL) (the latest version,
-but might have some breaking changes or unstable features.)
+Download the [latest release!](MEMEBOX_GITHUB_RELEASE_URL) (currently a bit out of date, new release soon) - the
+latest [nightly builds](MEMEBOX_GITHUB_NIGHTLY_RELEASE_URL) (the latest version, but might have some breaking changes or unstable features.)
 
 ## Which version should I get?
 
 This totally depends on you, and what you want. If you only want to test out
 the software and see what it is and how to use it, you can go for the latest release
-or if you want to check out the latest features that might still be a bit
-unstabler than you can go for the nightly release, but you get access to the newest
-features that way.
+or if you want to check out the latest features that might still be a bit unstable than you can go for the nightly release, but you get access to the newest features that way.
 
 My personal recommendation is the nightly build, but this up to you. :)
 
@@ -59,7 +55,7 @@ On the release page you will be presented with the option to download multiple
 versions of the MemeBox software.
 
 * `com.memebox.memebox-streamdeck.streamDeckPlugin`
-  * This is plugin that adds MemeBox controls to the [Streamdeck](https://www.elgato.com/en/stream-deck)
+  * This is a plugin that adds MemeBox controls to the [Streamdeck](https://www.elgato.com/en/stream-deck)
 * `memebox-electron.AppImage`
   * This is a file running a desktop version of MemeBox on Linux
 * `memebox-headless.exe`
@@ -354,4 +350,4 @@ To make sure that everything works, we can click in the `Preview` button on our
 [MEMEBOX_GITHUB_URL]:https://github.com/negue/memebox
 [MEMEBOX_GITHUB_RELEASE_URL]:https://github.com/negue/meme-box/releases
 [MEMEBOX_GITHUB_NIGHTLY_RELEASE_URL]:https://github.com/negue/meme-box-nightly/releases
-[OBS_URL]:(https://obsproject.com/)
+[OBS_URL]:https://obsproject.com/
