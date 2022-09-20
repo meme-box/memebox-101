@@ -63,7 +63,7 @@ versions of the MemeBox software.
 * `memebox-linux-headless`
   * This is a file running a headless version of MemeBox on Linux
 * `memebox-mac-electron.dmg`
-  * This is a file running a desktop version of MemeBox on Max
+  * This is a file running a desktop version of MemeBox on Mac
 * `memebox-macos-headless`
   * This is a file running a headless version of MemeBox on Mac
 * `memebox-windows-electron.exe`
